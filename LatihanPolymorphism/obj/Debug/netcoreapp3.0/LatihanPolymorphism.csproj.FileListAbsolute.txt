@@ -1,0 +1,11 @@
+D:\fika\LatihanPolymorphism\LatihanPolymorphism\bin\Debug\netcoreapp3.0\LatihanPolymorphism.exe
+D:\fika\LatihanPolymorphism\LatihanPolymorphism\bin\Debug\netcoreapp3.0\LatihanPolymorphism.deps.json
+D:\fika\LatihanPolymorphism\LatihanPolymorphism\bin\Debug\netcoreapp3.0\LatihanPolymorphism.runtimeconfig.json
+D:\fika\LatihanPolymorphism\LatihanPolymorphism\bin\Debug\netcoreapp3.0\LatihanPolymorphism.runtimeconfig.dev.json
+D:\fika\LatihanPolymorphism\LatihanPolymorphism\bin\Debug\netcoreapp3.0\LatihanPolymorphism.dll
+D:\fika\LatihanPolymorphism\LatihanPolymorphism\bin\Debug\netcoreapp3.0\LatihanPolymorphism.pdb
+D:\fika\LatihanPolymorphism\LatihanPolymorphism\obj\Debug\netcoreapp3.0\LatihanPolymorphism.csprojAssemblyReference.cache
+D:\fika\LatihanPolymorphism\LatihanPolymorphism\obj\Debug\netcoreapp3.0\LatihanPolymorphism.AssemblyInfoInputs.cache
+D:\fika\LatihanPolymorphism\LatihanPolymorphism\obj\Debug\netcoreapp3.0\LatihanPolymorphism.AssemblyInfo.cs
+D:\fika\LatihanPolymorphism\LatihanPolymorphism\obj\Debug\netcoreapp3.0\LatihanPolymorphism.dll
+D:\fika\LatihanPolymorphism\LatihanPolymorphism\obj\Debug\netcoreapp3.0\LatihanPolymorphism.pdb
